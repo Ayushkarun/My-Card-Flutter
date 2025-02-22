@@ -8,7 +8,6 @@ void main() {
 
 class First extends StatelessWidget {
   const First({super.key});
-
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
@@ -18,7 +17,6 @@ class First extends StatelessWidget {
     );
   }
 }
-
 class Working extends StatelessWidget {
   const Working({super.key});
 
