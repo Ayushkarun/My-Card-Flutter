@@ -1,5 +1,4 @@
 // ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,9 +16,9 @@ class First extends StatelessWidget {
     );
   }
 }
+
 class Working extends StatelessWidget {
   const Working({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
