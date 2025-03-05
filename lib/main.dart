@@ -32,7 +32,7 @@ class Working extends StatelessWidget {
           const Text(
             'Ayush Karun',
             style: TextStyle(
-              fontSize: 40,
+              fontSize: 42,
               color: Colors.white,
               fontWeight: FontWeight.bold,
               fontStyle: FontStyle.italic,
@@ -94,10 +94,12 @@ class Working extends StatelessWidget {
 
 
 /*
+look-
 mainAxisAlignment
 child 
 children
 
+first way i did
 Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             //mainAxisAlignment: MainAxisAlignment.center,
